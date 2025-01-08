@@ -19,12 +19,17 @@ import HelloWorld from './components/HelloWorld.vue'
           <RouterLink class="nav-link active text-light" to="/">Home</RouterLink >
         </li>
         <li class="nav-item"> 
-          <RouterLink class="nav-link text-light" to="/about">About</RouterLink>
+          <RouterLink class="nav-link text-light" to="/a-propos">A propos</RouterLink>
       </li>
       <li class="nav-item">
           <RouterLink class="nav-link text-light" to="/students">Students</RouterLink>
       </li>
-      
+      <li class="nav-item">
+          <RouterLink class="nav-link text-light" to="/todos">Todo</RouterLink>
+      </li>
+      <li class="nav-item">
+          <RouterLink class="nav-link text-light" to="/produits">Produits</RouterLink>
+      </li>
       </ul>
        
         

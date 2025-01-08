@@ -8,7 +8,7 @@ import "vue-toastification/dist/index.css";
 
 const app = createApp(App)
 const options = {
-    timeout:700
+
 
 };
 
